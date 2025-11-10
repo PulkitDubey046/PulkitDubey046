@@ -74,21 +74,10 @@ turning innovative ideas into practical, user-friendly applications.
 
 ---
 
-### 🌱 Currently Learning
-- **Next.js**, **TypeScript**, and **Backend Development (Node.js)**  
-- Advanced **AI tools**, **APIs**, and **Cloud Computing** concepts  
-
----
-
 ### 📫 Connect with Me
 📧 [pulkitdubey046@gmail.com](mailto:pulkitdubey046@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/pulkitdubey046)  
 🐙 [GitHub](https://github.com/pulkitdubey046)
-
----
-
-### ⚡ Fun Fact
-> “I love turning complex problems into simple, elegant code — and I never say no to a challenge.”
 
 ---
 
@@ -99,6 +88,6 @@ turning innovative ideas into practical, user-friendly applications.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PulkitDubey046&theme=tokyonight)
 
 ---
-
+> “I love turning complex problems into simple, elegant code — and I never say no to a challenge.”
 ⭐ **_Thanks for visiting my profile!_**  
 Let’s connect, collaborate, and build something amazing 🚀
